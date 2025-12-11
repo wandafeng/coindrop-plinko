@@ -1,0 +1,5 @@
+{
+  "name": "CoinDrop Plinko",
+  "description": "A physics-based coin drop game inspired by Plinko. Drop coins, hit multipliers, and get AI-powered commentary on your luck.",
+  "requestFramePermissions": []
+}
